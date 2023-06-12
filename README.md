@@ -1,9 +1,9 @@
 <img src = "gifread.gif" width = "325px" align = "right">
 
-## Olá, Bem vindo ✌️😄
-Sou o Raul Vieira, engenheiro e me aventurando em uma nova área! 👨🏻‍💻
-- 🏗️ Engenheiro Civil
-- 🎲 Cursando Ciência de Dados e Machine Learning
+## Hello, Welcome! ✌️😄
+I am Raul Vieira, an engineer venturing into a new area! 👨🏻‍💻
+- 🏗️ Civil Engineer
+- 🎲 Studying Data Science and Machine Learning
 ---
 
 <div>
